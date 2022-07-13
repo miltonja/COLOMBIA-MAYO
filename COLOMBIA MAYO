@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AEMundo",AE Mundo
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/DfjhP4N8/640px-A-E-Network-logo-svg.png",AE Mundo
 http://190.60.37.69:8015/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="AXN",AXN
 http://190.60.37.69:8015/play/a045/index.m3u8
